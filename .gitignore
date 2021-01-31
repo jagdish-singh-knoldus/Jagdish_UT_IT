@@ -1,0 +1,8 @@
+target/
+.idea/
+.bsp/
+AssignmentScala/.idea
+AssignmentScala/.bsp
+AssignmentScala/target
+AssignmentScala/project/target
+project/target
